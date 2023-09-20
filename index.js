@@ -7,8 +7,9 @@ console.log("Janry Lego");
 console.log("Sandara Kim");
 console.log("Lovella");
 console.log("Anna Mae");
-console.log("Sandara Kim");
 console.log("Christa Loreto");
 console.log("Joules Operario");
 console.log("Jovelyn Recomo");
 console.log("Roselyn Retardo");
+console.log("Kenji Chavez");
+
