@@ -11,5 +11,6 @@ console.log("Christa Loreto");
 console.log("Joules Operario");
 console.log("Jovelyn Recomo");
 console.log("Roselyn Retardo");
+console.log("Mary Grace Pamaybay");
 console.log("Kenji Chavez");
 
